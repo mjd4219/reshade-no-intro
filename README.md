@@ -1,6 +1,6 @@
 # ReShade Setup NO INTRO
 
-This repository hosts an archived custom build of the ReShade setup executable that was built from a modified ReShade source tree.
+This repository hosts an archived custom build of the ReShade v6.2.0 setup executable that was built from a modified ReShade source tree.
 
 The modification removes the startup intro/banner notification, so ReShade loads silently.
 
@@ -10,7 +10,7 @@ Download the executable from the Releases page.
 
 ## Provenance
 
-This is an unofficial modified build based on ReShade by Patrick Mours / crosire:
+This is an unofficial modified build based on ReShade v6.2.0 by Patrick Mours / crosire:
 
 https://github.com/crosire/reshade
 

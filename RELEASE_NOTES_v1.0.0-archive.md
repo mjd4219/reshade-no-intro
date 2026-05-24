@@ -1,10 +1,10 @@
-Archived unofficial modified ReShade setup executable.
+Archived unofficial modified ReShade v6.2.0 setup executable.
 
 This build removes the startup intro/banner notification so ReShade loads silently.
 
 The modified source tree used to produce this binary is no longer available. This release is provided as a binary-only archive.
 
-Based on ReShade by Patrick Mours / crosire:
+Based on ReShade v6.2.0 by Patrick Mours / crosire:
 https://github.com/crosire/reshade
 
 ReShade is licensed under the BSD 3-Clause License. See `LICENSE-ReShade.md` in this repository.
